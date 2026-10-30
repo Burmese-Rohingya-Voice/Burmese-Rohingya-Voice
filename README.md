@@ -1,4 +1,4 @@
-Hello I'm Burmese-Rohingya-Voice 👋
+Hello I'm Burmese-Rohingya-Voice 
 
 Interpreter and AI Data Annotator | Burmese · Rohingya · Hindi . bengali . Urdu
 
@@ -6,8 +6,8 @@ I help AI teams and organizations get accurate, culturally aware language data i
 
 What I do
 
-- 🎧 Audio and video annotation**: transcription, timestamping, speaker labeling
-- 🏷️ Data labeling: intent, sentiment, entity, and quality-rating tasks for AI training
+- 🎧 Audio and video annotation : transcription, timestamping, speaker labeling
+- 🏷️ AI voice Recording - tts clone - Data labeling: intent, sentiment, entity, and quality-rating tasks for AI training
 - 🗣️ Interpretation: [e.g., community, medical, legal, humanitarian settings]
 - ✅ Quality review: consistency checks and guideline-based QA
 
